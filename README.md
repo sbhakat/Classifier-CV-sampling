@@ -18,6 +18,9 @@ Problem set 1:
 The first problem is a simple one. This is related to https://www.biorxiv.org/content/10.1101/2020.04.27.062539v1 
 The flipping of tyrosine in Plasmepsin-II and BACE-1 leads to conformational changes. Chi1 angle of Tyr plays a critical role in this process. In plm-classifier notebook we will see how one can use binary classifier to seperate two states of Tyrosine and generate Plumed inputs which can be used as CVs to perform metadynamics.
 
+Problem set 2:
+
+The aim is to use TIC as a torch that can seperate states based on principle of maximum entropy. Then one uses those states as inputs during classification process.See the jupyter notebook.
 
 Requirements:
 1. MSMBuilder
