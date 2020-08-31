@@ -20,7 +20,7 @@ The flipping of tyrosine in Plasmepsin-II and BACE-1 leads to conformational cha
 
 Problem set 2:
 
-The aim is to use TIC as a torch that can seperate states based on principle of maximum entropy. Then one uses those states as inputs during classification process.See the jupyter notebook.
+The aim is to use TIC as a torch that can seperate states based on principle of maximum entropy (see also https://github.com/sbhakat/BPTI-TICA-waterdynamics). Then one uses those states as inputs during classification process.See the jupyter notebook.
 
 Requirements:
 1. MSMBuilder
