@@ -9,6 +9,6 @@ There are several algorithms which can be used for this purpose. please have a l
 
 ![classifier-idea](/classifier-algorithms.png)
 
-One can use TICAs () as torch to seperate different states from MD simulation dataset and one can further use classifiers on those as depicted in the following picture. This requires less data.
+One can use TICAs (see git https://github.com/sbhakat/BPTI-TICA-waterdynamics) as torch to seperate different states from MD simulation dataset and one can further use classifiers on those as depicted in the following picture. This requires less data.
 
 ![classifier-idea](/tica-classifier.png)
