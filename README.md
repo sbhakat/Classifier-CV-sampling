@@ -8,3 +8,7 @@ The general idea of binary classifier is to seperate probability densities corre
 There are several algorithms which can be used for this purpose. please have a look at https://scikit-learn.org/stable/supervised_learning.html#supervised-learning and choose your favourite classifier. Here are few classifiers which I personally tested
 
 ![classifier-idea](/classifier-algorithms.png)
+
+One can use TICAs () as torch to seperate different states from MD simulation dataset and one can further use classifiers on those as depicted in the following picture. This requires less data.
+
+![classifier-idea](/tica-classifier.png)
