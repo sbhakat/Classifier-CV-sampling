@@ -21,7 +21,7 @@ from msmbuilder.utils import load,dump
 
 #Loading the trajectory
 a = np.arange(1119,1277)
-trj_list = [md.load("../../traj-210-300.xtc",top="../prot.pdb", atom_indices = a), md.load("../../traj-380-470.xtc",top="../prot.pdb", atom_indices = a)
+trj_list = [md.load("../../traj-210-300.xtc",top="../prot.pdb", atom_indices = a), md.load("../../traj-380-470.xtc",top="../prot.pdb", atom_indices = a)]
 #dump(trj_list, "traj_list.pkl")
 
 #from msmbuilder.utils import load,dump
